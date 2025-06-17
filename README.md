@@ -15,13 +15,5 @@ This project uses AI to classify free-text municipal complaints (e.g., roads, ga
 - Pandas (logging)
 - Google Colab
 
-## 📸 Screenshots
-_Add screenshots here if uploaded to the repo_
-
-## 📂 Files Included
-- `.ipynb` notebook
-- Complaint log CSV (optional)
-- Screenshots and flowchart image
-
 ## 🌍 Status
 This is a working prototype with scope for integration into real municipal systems.
